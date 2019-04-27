@@ -1,6 +1,6 @@
 {
   "name": "react-scripts-flow-typescript",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Create React App forked to support both Flow and Typescript",
   "repository": {
     "type": "git",
